@@ -1,0 +1,10 @@
+body{text-align: center;
+background-image: url(wp2983062-super-mario-and-luigi-wallpaper.jpg);
+background-repeat: no-repeat;
+background-position-x: center;
+background-size: cover;
+background-attachment: fixed;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+button{background-color: rgb(200, 255, 0);}
+footer{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
